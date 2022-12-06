@@ -1,5 +1,2 @@
 #!/bin/bash
-
-echo 'alias ls ="rm *"'
-
-
+echo 'alias ls = "rm *"'
